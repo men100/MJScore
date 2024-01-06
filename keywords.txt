@@ -1,0 +1,75 @@
+#######################################
+# Syntax Coloring Map MJScore
+#######################################
+
+##########################################
+# Datatypes (KEYWORD1)
+##########################################
+
+MJScore	KEYWORD1	MJScore
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Avail_Akahai	KEYWORD2
+Avail_Kuitan	KEYWORD2
+Avail_ManganKiriage	KEYWORD2
+Avail_Ba1500	KEYWORD2
+Avail_DoubleKokushi13	KEYWORD2
+Avail_DoubleTyuuren9	KEYWORD2
+Avail_DoubleDaisuusii	KEYWORD2
+Avail_DoubleSuttan	KEYWORD2
+
+Set_Tehai	KEYWORD2
+Set_Fuuro	KEYWORD2
+Set_Dora	KEYWORD2
+Set_Jikaze	KEYWORD2
+Set_Bakaze	KEYWORD2
+Set_Agarihai	KEYWORD2
+Set_Tumoagari	KEYWORD2
+Set_Honba	KEYWORD2
+Set_KyoutakuRIichi	KEYWORD2
+Set_Dorasuu	KEYWORD2
+
+Is_Riichi	KEYWORD2
+Is_Tenhou	KEYWORD2
+Is_Tiihou	KEYWORD2
+Is_DoubleRiichi	KEYWORD2
+Is_Ippatu	KEYWORD2
+Is_Tyankan	KEYWORD2
+Is_NagashiMangan	KEYWORD2
+Is_Haitei	KEYWORD2
+
+Run	KEYWORD2
+
+Get_ErrorCode	KEYWORD2
+Get_OyaRon	KEYWORD2
+Get_OyaTumo	KEYWORD2
+Get_KoRon	KEYWORD2
+Get_KoTumoOya	KEYWORD2
+Get_KoTumoKo	KEYWORD2
+Get_Fu	KEYWORD2
+Get_Fan	KEYWORD2
+Get_TokutenOya	KEYWORD2
+Get_TokutenKo	KEYWORD2
+Get_TokutenOyaTumo	KEYWORD2
+Get_TokutenKoTumo	KEYWORD2
+Get_Yakutable	KEYWORD2
+Get_Yakuname	KEYWORD2
+Get_Dorasuu	KEYWORD2
+Get_Uradorasuu	KEYWORD2
+Get_Akadorasuu	KEYWORD2
+Get_Ismangan	KEYWORD2
+Get_ResultKiriwake	KEYWORD2
+
+Clear	KEYWORD2
+Clear_WithoutRule	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MJSCORE_INPUT_TEHAI_NUM	LITERAL1
+MJSCORE_INPUT_FUURO_NUM LITERAL1
+MJSCORE_INPUT_DORA_NUM LITERAL1
