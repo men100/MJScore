@@ -5,8 +5,8 @@
 MJScore score;
 
 int tehai[MJSCORE_INPUT_TEHAI_NUM];  //手牌
-int fuuro[20];  //フーロ
-int dora[11];   //ドラ
+int fuuro[MJSCORE_INPUT_FUURO_NUM];  //フーロ
+int dora[MJSCORE_INPUT_DORA_NUM];   //ドラ
 
 void set() {
 	/*          手牌等の情報入力         */
