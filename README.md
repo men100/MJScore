@@ -1,6 +1,6 @@
 ![](https://img.shields.io/github/license/men100/MJScore)
 
-# MJScore
+# MJScore for Arduino
 
 This is a Mahjong score calculation library.<br>
 If a pat is made from the entered values, the name of the role and its score are displayed.<br>
